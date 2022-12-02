@@ -1,21 +1,10 @@
-###  Fala!!! Eu sou o João Pedro
+### Oiii eu sou a João Pedro, desenvolvedor Front-End!
 
-
-- 🔭  Estou  tralhando com marketing
-- 🌱  Estudando HTML.CSS,Java script
-- 🤔 Toda ajuda é bem vinda
-- 📫 Conrte-me no email: joaopedrowilliam41@gmail.com
-- 😄 Pronouns: ele/dele
-
-<div align="center">
+<div align="center" >
   <a href="https://github.com/JoaoPedrowilliam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedrowilliam&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrowilliam&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" marggin="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrowilliam&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-
-
-
-
 
 
 
