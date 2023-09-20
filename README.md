@@ -1,58 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+<h1 align="center">Oi 👋, Eu sou João Pedro Willima</h1>
+<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
 
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=joaopedrowilliam&label=Profile%20views&color=0e75b6&style=flat" alt="joaopedrowilliam" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Pedro;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaopedrowilliam" alt="joaopedrowilliam" /></ a> </p>
 
+- 🔭 Atualmente estou trabalhando **Gbobar**
 
+- 🌱 Atualmente estou aprendendo **Java, Spring boot, Python, Desing,Postgre**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joaopedrowilliam&bg_color=0d1117&color=07d5ab&line=237b7b&point=00e9fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 👯 Eu procuro colaborar em **Projetos FullStack**
 
+- 💬 Me pergunte sobre **Tecnologia, Astronomia, Filmes, Musicas.**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+- 📫 Fale comigo **joaopedrowilliam41@gmail.com**
+
+- 📄 Saiba mais sobre mim em [www.linkedin.com/in/ joao-pedro-william](www.linkedin.com/in/ joao-pedro-william)
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joao pedro william" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" joao pedro william" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https:// www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3. org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt ="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel= "noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="ilustrador" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a > <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop " width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href ="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring. io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" altura ="40"/> </a> </p>svg" alt="primavera" largura="40" altura="40"/> </a> </p>svg" alt="primavera" largura="40" altura="40"/> </a> </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopedrowilliam&show_icons=true&count_private=true&hide_border=true&title_color=40E0D0&icon_color=237b7b&text_color=40E0D0&bg_color=0d1117" alt="João Pedro William github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrowilliam&layout=compact&hide_border=true&title_color=40E0D0&text_color=40E0D0&bg_color=0d1117" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrowilliam&show_icons=true&locale=en&layout=compact" alt="joaopedrowilliam" /> </p>
 
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedrowilliam&show_icons=true&locale=en" alt="joaopedrowilliam" /> </p>
 
-<div align="center"> 
-<a href="https://instagram.com/joao.willi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.joaopedrowilliam41@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/joao-pedro-william" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-  
-  
-  
-  ### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-
-  
-  
-  ### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-
-  
-### Studying in this moment:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  
- 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaopedrowilliam}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrowilliam&" alt="joaopedrowilliam" /></p>
