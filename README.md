@@ -1,6 +1,6 @@
 ## Faaaala dev, João Pedro Aqui!
 
-- 🙋‍♂️ João Pedro William , 22 anos
+- 🙋‍♂️ João Pedro Almeida, tenho 22 anos
 - 🌱 Atualmente estudando Java, Python
 - 📫 Onde me encontrar: joaopedrowilliam41@gmail.com
 - ⚽ 🎞 Apaixonado por programação, futebol Americano, Astronomia e Filmes 
