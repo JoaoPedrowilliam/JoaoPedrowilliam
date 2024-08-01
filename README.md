@@ -1,36 +1,49 @@
-## Faaaala dev, João Pedro Aqui!
+## Hello, this is João Pedro. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-- 🙋‍♂️ João Pedro Almeida, tenho 22 anos
-- 🌱 Atualmente estudando Java, Python
-- 📫 Onde me encontrar: joaopedrowilliam41@gmail.com
-- ⚽ 🎞 Apaixonado por programação, futebol Americano, Astronomia e Filmes 
+<h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<div>
-  
- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrowilliam&theme=ocean_dark&show_icons=true"/>
- <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrowilliam&layout=compact&langs_count=16&theme=ocean_dark"/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-JoaoPedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-william/)](https://www.linkedin.com/in/joao-pedro-william/) [![Gmail Badge](https://img.shields.io/badge/-joaopedrowilliam41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrowilliam41@gmail.com)](mailto:joaopedrowilliam41@gmail.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
-<br>
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-<div align="center"> 
-    <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <div style="display: inline_block"><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  
-</div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a target="_blank" href="https://www.linkedin.com/in/joao-pedro-william"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-    <a target="_blank" href="mailto:joaopedrowilliam41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</div>
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+## :computer: Technologies I Love
+* Python
+* Machine Learning
+* Data Science
+
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrowilliam&layout=compact">
+
+## Programming Languages
+<img src = 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/> <img src = 'https://img.shields.io/badge/MySQL-082668?style=for-the-badge&logo=mysql&logoColor=white'/> <img src = 'https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'/> <img src = 'https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'/> <img src = 'https://img.shields.io/badge/Power_BI-ede11b?style=for-the-badge&logo=Power_BI&logoColor=white'/> <img src = 'https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white'/>
+
+ 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Joao Pedro '
+	  current_work = 'Analyzing data'
+		hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Brazil São-Paulo()
+	
+
+	
+ ```
+ 
+## Curre Works
+ * Restaurant Recommendation System
+   
+ 
+## Other Stuff
+  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
